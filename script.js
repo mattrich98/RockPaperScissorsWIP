@@ -1,3 +1,6 @@
+humanScore = 0;
+computerScore = 0;
+
 function getComputerChoice(){
     //console.log("Computer Rolls:")
     let computerChoiceArray = ["Rock", "Paper", "Scissors"]
@@ -5,7 +8,14 @@ function getComputerChoice(){
     //console.log(randomChoice)
     return randomChoice //returns the results to the used function
 }
-
+/*
 console.log(getComputerChoice()); //console.log is worded like this to see the result of using the function
 console.log(getComputerChoice());
 console.log(getComputerChoice());
+*/
+
+function getHumanChoice(){
+    let humanChoiceArray = ["Rock", "Paper", "Scissors"]
+    //Hint: Use the prompt method to get the user’s input.
+    //Somewhere need to use event listener - on click for buttons maybe
+}
