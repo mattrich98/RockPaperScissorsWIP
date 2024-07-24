@@ -1,10 +1,11 @@
-choiceArray["Rock", "Paper", "Scissors"]
+let choiceArray = ["Rock", "Paper", "Scissors"]
+randomChoice = choiceArray[Math.floor(Math.random()*choiceArray.length)]
+console.log(randomChoice)
 
 function getComputerChoice(){
-    console.log("test")
-    return Math.floor(math.random()*choiceArray)
+    console.log("Computer Rolls:")
+    return randomChoice;
+    
 }
 
 getComputerChoice()
-
-console.log(getComputerChoice());
