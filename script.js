@@ -19,3 +19,5 @@ function getHumanChoice(){
     //Hint: Use the prompt method to get the user’s input.
     //Somewhere need to use event listener - on click for buttons maybe
 }
+
+console.log(getHumanChoice());
