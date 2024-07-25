@@ -21,6 +21,3 @@ function getHumanChoice(){
 }
 
 console.log(getHumanChoice());
-window.prompt()
-
-getHumanChoice()
