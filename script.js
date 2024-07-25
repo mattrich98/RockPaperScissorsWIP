@@ -5,13 +5,13 @@ function getComputerChoice(){
     //console.log("Computer Rolls:")
     let computerChoiceArray = ["rock", "paper", "scissors"]
     computerChoice = computerChoiceArray[Math.floor(Math.random()*computerChoiceArray.length)] //math.floor() makes it a whole number, math.random() randomises multiplied by array length (its different from string.length) within computerChoiceArray variable array brackets [].
-    //console.log(randomChoice)
+    //console.log(computerChoice)
     return computerChoice //returns the results to the used function
 }
 /* testing
 console.log(getComputerChoice()); //console.log is worded like this to see the result of using the function
-console.log(getComputerChoice());
-console.log(getComputerChoice());
+console.log(getComputerChoice()); //to test if it does other results
+console.log(getComputerChoice()); //to test if it does other results 2
 */
 
 function getHumanChoice(){
