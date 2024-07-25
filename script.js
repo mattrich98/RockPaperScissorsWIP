@@ -18,6 +18,7 @@ function getHumanChoice(){
     //let humanChoiceArray = ["Rock", "Paper", "Scissors"]
     //Hint: Use the prompt method to get the user’s input.
     let humanChoice = prompt("Rock, Paper, Scissors?")
+    return humanChoice
 }
 
 console.log(getHumanChoice());
