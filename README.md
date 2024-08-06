@@ -4,4 +4,4 @@
 <br>
 I read through a bit of the Odin Project and skim read to the project. I plan to learn through trial and error and backtrack on things I need to know. 
 <br>
-As I am busy with my bootcamp course, I plan to finish this at a later date.
+As I am busy with the bootcamp course, I plan to finish this at a later date.
