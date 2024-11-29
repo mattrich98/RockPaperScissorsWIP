@@ -1,9 +1,12 @@
 # rockPaperScissors wip
  <h2>Project: Rock Paper Scissors</h2>
  <hr>
-<br> (return - returns the results to the used function)
+<br> 
+(return - returns the results to the used function)
 <br>
-    (.toLowerCase() - makes letters lowercase, this converts uppercase letters)
+(.toLowerCase() - makes letters lowercase, this converts uppercase letters)
+<br>
+(in HTML; from past research, people say to put Javascript <script src=""></script> at the bottom since it works better if the HTML page loads the other information first I think)
 <br>
 <br>
 <strong>TODOS:</strong>
