@@ -4,7 +4,7 @@
 <strong>Tips:</strong>
 <li>(return - returns the results to the used function)</li>
 <li>(.toLowerCase() - makes letters lowercase, this converts uppercase letters)</li>
-<li>(in HTML; from past research, people say to put Javascript <script src=""></script> at the bottom since it works better if the HTML page loads the other information first I think)</li>
+<li>(in HTML; from past research, people say to put Javascript <script src=""></script> at the bottom since it works better; if the HTML page loads the other information first, I think)</li>
 <br>
 <strong>TODOS:</strong>
 <ul>1. Make span id change with JavaScript (maybe getelementbyid)</ul>
