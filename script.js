@@ -19,7 +19,7 @@ function getHumanChoice(){
     return humanChoice //To put the result in a used function
 }
 
-//console.log(getHumanChoice()); testing
+console.log(getHumanChoice()); testing
 
 function playRound(humanChoice, computerChoice){ //parameters go inside brackets ()
 
