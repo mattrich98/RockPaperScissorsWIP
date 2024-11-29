@@ -7,7 +7,7 @@
 <br>
 <br>
 <strong>TODOS:</strong>
-<ul>1. Make span id change with JavaScript</ul>
+<ul>1. Make span id change with JavaScript (maybe getelementbyid)</ul>
 <ul>2. Figure out what previous written JS code does. (Using console.log) </ul>
 <ul>3. Each time the player chooses a choice, the computer does at the same times. (5 total)</ul>
 <ul>4. Need results for winning / losing / draw</ul>
