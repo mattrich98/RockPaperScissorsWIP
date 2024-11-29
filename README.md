@@ -13,3 +13,4 @@
 <ul>4. Need results for winning / losing / draw</ul>
 <ul>5. It would be easier to complete the main functions through JavaScript but, its easier for me to figure things out visually faster; if I combine it with the button all together.</ul>
 <ul>6. Do CSS last as its the least important / not necessary</ul>
+<ul>The functions will trigger when a button is pressed / type with alert prompt maybe?</ul>
