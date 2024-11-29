@@ -1,9 +1,15 @@
 # rockPaperScissors wip
  <h2>Project: Rock Paper Scissors</h2>
  <hr>
+<br> (return - returns the results to the used function)
 <br>
-I read through a bit of the Odin Project and skim read to the project. I plan to learn through trial and error and backtrack on things I need to know. 
+    (.toLowerCase() - makes letters lowercase, this converts uppercase letters)
 <br>
-As I am busy with the bootcamp course, I plan to finish during September-October 2024.
 <br>
-The basic functions of the game are 2/3 completed I think
+<strong>TODOS:</strong>
+<ul>1. Make span id change with JavaScript</ul>
+<ul>2. Figure out what previous written JS code does. (Using console.log) </ul>
+<ul>3. Each time the player chooses a choice, the computer does at the same times. (5 total)</ul>
+<ul>4. Need results for winning / losing / draw</ul>
+<ul>5. It would be easier to complete the main functions through JavaScript but, its easier for me to figure things out visually faster; if I combine it with the button all together.</ul>
+<ul>6. Do CSS last as its the least important / not necessary</ul>
