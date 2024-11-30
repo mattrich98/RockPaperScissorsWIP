@@ -7,6 +7,7 @@
 <li>(in HTML; from past research, people say to put Javascript <script src=""></script> at the bottom since it works better; if the HTML page loads the other information first, I think)</li>
 <li>Write more comments that describe why you did something, incase you forget
 <br>
+<br>
 <strong>TODOS:</strong>
 <ul>1. Make span id change with JavaScript (maybe getelementbyid + inner html since the text will only change)</ul>
 <ul>2. Figure out what previous written JS code does. (Using console.log) </ul>
