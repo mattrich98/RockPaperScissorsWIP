@@ -10,7 +10,7 @@
 <ul>1. Make span id change with JavaScript (maybe getelementbyid + inner html since the text will only change)</ul>
 <ul>2. Figure out what previous written JS code does. (Using console.log) </ul>
 <ul>3. Each time the player chooses a choice, the computer does at the same time. (5 total)</ul>
-<ul>4. Need results for winning / losing / draw</ul>
+<ul>4. Need results for winning / losing / draw + don't use for / loops, just use if else elseif conditions to make less complicated</ul>
 <ul>5. It would be easier to complete the main functions through JavaScript but, its easier for me to figure things out visually faster; if I combine it with the button all together.</ul>
 <ul>6. Do CSS last as its the least important / not necessary</ul>
 <ul>7. The functions will trigger when a button is pressed / type with alert prompt maybe?</ul>
