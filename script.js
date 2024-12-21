@@ -14,28 +14,31 @@ function getHumanChoice(){
     
     if (humanChoice == "rock" && computerChoice == "scissors"){
         humanScore++;
+        computerScore --;
     } else if (humanChoice == "paper" && computerChoice == "rock"){
         humanScore++;
+        computerScore --;
     } else if (humanChoice == "scissors" && computerChoice == "paper"){
         humanScore++;
+        computerScore --;
     }
 
     if (humanChoice == "scissors" && computerChoice == "rock"){
         humanScore--;
+        computerScore ++;
     } else if (humanChoice == "rock" && computerChoice == "paper"){
         humanScore --;
+        computerScore ++;
     } else if (humanChoice == "paper" && computerChoice == "scissors"){
         humanScore --;
+        computerScore ++;
     }
     return humanChoice //To put the result in a used function
 }
 
 //Make if statements for word choices, rock paper scissors, if = 3 then win lose etc
 
-
-// Win Condition if statements: //
-
-
+console.log("Rock Paper Scissors (5 Rounds), write any between: rock - paper - scissors");
 
 // Round 1
 console.log(getComputerChoice());
@@ -49,12 +52,29 @@ console.log(getHumanChoice());
 console.log(getComputerChoice());
 console.log(getHumanChoice());
 
+// Round 4
+console.log(getComputerChoice());
+console.log(getHumanChoice());
+
+// Round 5
+console.log(getComputerChoice());
+console.log(getHumanChoice());
 console.log((humanScore) , (computerScore));
 
-if ((humanScore >= 3) && (computerScore < 3)){
-    console.log("Human Win!");
-}
 
+// Win Condition if statements: //
+
+if (humanScore > computerScore){
+    alert("Human Win");
+    console.log("Human Win!");
+} else {
+    alert("Computer Win");
+    console.log("Computer Win!");}
+
+if (humanScore == computerScore){
+    alert("Tie");
+    console.log("Tie!");
+}
 
 //-----------------------------------------------------------------------------------------------------
 
