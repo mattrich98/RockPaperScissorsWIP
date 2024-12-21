@@ -1,4 +1,4 @@
-# rockPaperScissors wip
+# rockPaperScissors
  <h2>Project: Rock Paper Scissors</h2>
 <strong>Conclusion:</strong>
 <br>
