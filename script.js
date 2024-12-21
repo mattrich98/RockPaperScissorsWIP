@@ -9,22 +9,31 @@ function getComputerChoice(){
     return computerChoice //returns the results to the used function
 }
 
-console.log(getComputerChoice()); //console.log is worded like this to see the result of using the function
-console.log(getComputerChoice()); //to test if it does other results
-console.log(getComputerChoice()); //to test if it does other results 2
-
-
 function getHumanChoice(){
     let humanChoice = prompt("rock, paper, scissors?").toLowerCase() //Opens a window where you write your answer and press ok. + added .lowerCase() to end of prompt to make case insensitive
     return humanChoice //To put the result in a used function
 }
 
-console.log(getHumanChoice()); testing
-
-function playRound(humanChoice, computerChoice){ //parameters go inside brackets ()
+//Make if statements for word choices, rock paper scissors, if = 3 then win lose etc
 
 
 
-}
 
-console.log("test");
+
+
+//-----------------------------------------------------------------------------------------------------
+
+//console.log("test");
+
+//console.log(getHumanChoice()); testing
+
+//console.log(getComputerChoice()); //console.log is worded like this to see the result of using the function
+//console.log(getComputerChoice()); //to test if it does other results
+//console.log(getComputerChoice()); //to test if it does other results 2
+
+
+/*function playRound(humanChoice, computerChoice){ //parameters go inside brackets ()
+
+
+
+}*/
