@@ -6,7 +6,7 @@
 <li>I completed the basic functions of the game as was asked on the Odin Project website. Maybe I will try to make it interactive with HTML buttons and other things.</li>
 <li>I will probably come back to this project after finishing the 'smartautogreenhouse project'</li>
 <li><strong>Project Website Link: https://mattrich98.github.io/RockPaperScissors/</strong></li>
-
+(You have to click the link for the prompt to show, as opening in a new tab requires you to refresh the page for it to work.)
 <br>
 <br>
 <hr>
