@@ -13,7 +13,8 @@
 <li>(return - returns the results to the used function)</li>
 <li>(.toLowerCase() - makes letters lowercase, this converts uppercase letters)</li>
 <li>(in HTML; from past research, people say to put Javascript <script src=""></script> at the bottom since it works better; if the HTML page loads the other information first, I think)</li>
-<li>Write more comments that describe why you did something, incase you forget
+<li>Write more comments that describe why you did something, incase you forget</li>
+<li>Arrays, even with words is counted 0, 1, 2 ,3. Since the words are translated to numbers, it can be manipulated with math.random + math.floor methods</li>
 <br>
 <br>
 <hr>
