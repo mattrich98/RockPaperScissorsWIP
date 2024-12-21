@@ -3,9 +3,12 @@
 <strong>Conclusion:</strong>
 <br>
 <br>
-I completed the basic functions of the game as was asked on the Odin Project website. Maybe I will try to make it interactive with HTML buttons and other things.
+<li>I completed the basic functions of the game as was asked on the Odin Project website. Maybe I will try to make it interactive with HTML buttons and other things.</li>
+<li>I will probably come back to this project after finishing the 'smartautogreenhouse project'</li>
+
 <br>
-<br> 
+<br>
+<hr>
 <strong>Tips:</strong>
 <li>(return - returns the results to the used function)</li>
 <li>(.toLowerCase() - makes letters lowercase, this converts uppercase letters)</li>
@@ -13,6 +16,7 @@ I completed the basic functions of the game as was asked on the Odin Project web
 <li>Write more comments that describe why you did something, incase you forget
 <br>
 <br>
+<hr>
 <strong>TODOS:</strong>
 <ul><s>1. Make span id change with JavaScript (maybe getelementbyid + inner html since the text will only change)</s></ul>
 <ul><s>2. Figure out what previous written JS code does. (Using console.log)</s></ul>
